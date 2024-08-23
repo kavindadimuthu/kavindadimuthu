@@ -30,7 +30,7 @@
 
 ---
 
-[![Kavinda's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavindadimuthu&theme=react-dark)](https://github.com/isurunvn/github-readme-activity-graph)
+[![Kavinda's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavindadimuthu&theme=react-dark)](https://github.com/kavindadimuthu/github-readme-activity-graph)
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=kavindadimuthu&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true" alt="Kavinda's GitHub stats" /> -->
