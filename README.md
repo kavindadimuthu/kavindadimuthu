@@ -11,7 +11,8 @@
 
 ### 🌱 Currently Learning
  - **Web Development** **|**
- **JavaScript/MERN Stack**
+🔭 I’m currently working on MERN App
+🌱 I’m currently learning Node JS and JavaScript
 
 ### 💻 Most Preferred
 - **Front-End Development:** 
