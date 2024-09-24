@@ -1,47 +1,20 @@
-## Hello! I'm Kavinda 👋
+<h1 align="center">Hi 👋, I'm Kavinda</h1>
+<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
-### 🎓 Education
-- **Undergraduate** at **University of Colombo School of Computing**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindadimuthu&label=Profile%20views&color=0e75b6&style=flat" alt="kavindadimuthu" /> </p>
 
-### 🛠 Languages
-- <img src="https://skillicons.dev/icons?i=c,html,css,javascript,php,java,python" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavindadimuthu" alt="kavindadimuthu" /></a> </p>
 
-### 💡 Technologies
-- <img src="https://skillicons.dev/icons?i=react,mongodb,express,node" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kavinda dewmith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavinda dewmith" height="30" width="40" /></a>
+</p>
 
-### 🌱 Currently Learning
- - **Web Development** **|**
-🔭 I’m currently working on MERN App
-🌱 I’m currently learning Node JS and JavaScript
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-### 💻 Most Preferred
-- **Front-End Development:** 
-   ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
-   ![JS](https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=Javascript)
-   ![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat-square&logo=Tailwind)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindadimuthu&show_icons=true&locale=en&layout=compact" alt="kavindadimuthu" /></p>
 
-### 🛠 Editor of Choice
- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavindadimuthu&show_icons=true&locale=en" alt="kavindadimuthu" /></p>
 
-### 📲 Reach Me 
-- *kavindadewmith@gmail.com*
-- <a href="https://www.linkedin.com/in/kavinda-dewmith-1747b8268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavinda" height="30" width="40" /></a>
- <a href="https://instagram.com/isuru_nvn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isuru_nvn_" height="30" width="40" /></a>
-
----
-
-[![Kavinda's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavindadimuthu&theme=react-dark)](https://github.com/kavindadimuthu/github-readme-activity-graph)
-
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=kavindadimuthu&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true" alt="Kavinda's GitHub stats" /> -->
-     <img width=390 height=250 align=left src="https://github-readme-stats.vercel.app/api?username=kavindadimuthu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-
-  <img width=390 height=250  align-=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindadimuthu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
----
-
-### 📊 Stats
-- **Contributed Projects:** ![Contributions](https://img.shields.io/badge/contributions-62-green?style=flat-square) <!-- Adjust manually or fetch via API -->
-- **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=kavindadimuthu&style=flat-square)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindadimuthu&" alt="kavindadimuthu" /></p>
