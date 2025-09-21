@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kavinda dewmith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavinda dewmith" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kavinda dewmith](http://iamkavinda.vercel.app" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c281f197-0ef0-457c-a8c4-af1143110016" />
+<a href="http://iamkavinda.vercel.app" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c281f197-0ef0-457c-a8c4-af1143110016" />
 </a>
 </p>
 
